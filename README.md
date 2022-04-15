@@ -8,7 +8,7 @@
 [![GitHub license](https://img.shields.io/github/license/LegendaryB/esp32-eqiva-lock.svg?longCache=true&style=flat-square)](https://github.com/LegendaryB/esp32-eqiva-lock/blob/main/LICENSE)
 
 A automation for the eQ-3 lock which works with a combination of NFC and a BLE device as the key.
-</div><br>
+</div>
 
 ## 🎯 Features
 * Unlock door via NFC
