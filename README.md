@@ -1,4 +1,4 @@
-<p align="center"><img alt="esp32-eqiva-lock" height="60"></p>
+<p align="center">esp32-eqiva-lock</p>
 
 <div align="center">
 
